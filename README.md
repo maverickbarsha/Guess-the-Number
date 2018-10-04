@@ -5,5 +5,5 @@ The computer will generate a random number, which you will have to guess correct
 
 How to play?
 
-*Open terminal in root directory
-*Run this command ```python guess_number.py```
+* Open terminal in root directory
+* Run this command ```python guess_number.py```
